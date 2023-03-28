@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Project Link
 
-In the project directory, you can run:
+https://my-second-react-project.netlify.app/
 
 ### `npm start`
 
