@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project Link
 
-Project Link[https://my-second-react-project.netlify.app/]
+[Project Link](https://my-second-react-project.netlify.app/)
 
 ### `npm start`
 
