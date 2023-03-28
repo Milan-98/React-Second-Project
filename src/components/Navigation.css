@@ -1,0 +1,19 @@
+.Nav-parent{
+    height: 5vh;
+    display: grid;
+    align-items: center;
+    background-color: lightskyblue;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    margin-right: 3px;
+}
+
+.Nav-member{
+    
+    color:green;
+    font-size: larger;
+    margin-left: 10px;
+}

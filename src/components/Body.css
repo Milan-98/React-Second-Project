@@ -1,0 +1,11 @@
+.Body{
+    background-color: cornflowerblue;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-weight: 600;
+    text-align: center;
+    color: crimson;
+}
