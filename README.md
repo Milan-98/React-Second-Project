@@ -12,7 +12,7 @@
 
 ## Lessons Learned
 
-Bit, easy than i think about react .
+Bit, easy than i think about react 
 Good luck to me for further journey on react.
 
 
